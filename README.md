@@ -18,5 +18,6 @@ The steps we are going to go over in this pipeline are:
 
 
 ## Code and intermediate files
-I put my code in 3 different R files under the 'code' folder, and saved those important intermediate objects as RDS files.
+I put my code in 3 different R files under the 'code' folder, and saved those important intermediate objects as RDS files. 
+The RDS files are too big to upload, I put the first one 'raw.list', which contains all 6 samples in the 'release' section.
 Feel free to download and run the code!
